@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 28,
+    "articles": [
+        {
+            "source": {
+                "id": "les-echos",
+                "name": "Les Echos"
+            },
+            "author": "Édouard Lederer, Marion Heilmann",
+            "title": "Paiements : comment les banques comptent prendre leur revanche",
+            "description": "L'alliance entre Crédit Agricole et Worldline montre que le secteur doit encore hausser son niveau de jeu dans les métiers du paiement. Une lente évolution qui a vu ce métier considéré comme purement technique devenir un vrai enjeu stratégique.",
+            "url": "https://www.lesechos.fr/finance-marches/banque-assurances/paiements-comment-les-banques-comptent-prendre-leur-revanche-1936204",
+            "urlToImage": "https://media.lesechos.com/api/v1/images/view/643fc465521c6c4e3623f109/1280x720/09021566545-web-tete.jpg",
+            "publishedAt": "2023-04-19T10:37:19Z",
+            "content": "Les banques à l'heure des choix. Elles qui dominaient historiquement les services de paiement - en fournissant des cartes bancaires, en maîtrisant les « tuyaux » par lesquels passent les transactions… [+3567 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": null,
+            "title": "UN: India on track to become world's most populous country",
+            "description": "NEW DELHI (AP) — India is on track to become the world's most populous nation, surpassing China by 2.9 million people by mid-2023, according to data released by the United Nations on Wednesday.The South Asian country will have an estimated 1.4286 billion peop…",
+            "url": "https://apnews.com/47bcd360aba6b7e3ecc4020702fa685f",
+            "urlToImage": "",
+            "publishedAt": "2023-04-19T10:11:32Z",
+            "content": "NEW DELHI (AP) — India is on track to become the world's most populous nation, surpassing China by 2.9 million people by mid-2023, according to data released by the United Nations on Wednesday.The So… [+1634 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ingrid Lunden",
+            "title": "Coro raises $75M at a $575M valuation to grow its all-in-one cybersecurity platform",
+            "description": "Simplification has been a big theme in the enterprise world in the last couple of years. If a company can consolidate multiple point solutions into one product or contract, it can reduce complexity and ultimately costs for the end user — so long as those all-…",
+            "url": "https://techcrunch.com/2023/04/19/coro-security/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1140706398.jpg?resize=1200,675",
+            "publishedAt": "2023-04-19T10:03:02Z",
+            "content": "Simplification has been a big theme in the enterprise world in the last couple of years. If a company can consolidate multiple point solutions into one product or contract, it can reduce complexity a… [+5779 chars]"
+        },
+        {
+            "source": {
+                "id": "news-com-au",
+                "name": "News.com.au"
+            },
+            "author": null,
+            "title": "’Depressing as hell’: Musk’s end of world fears",
+            "description": "<p>Elon Musk admitted he doesn&rsquo;t know whether alien life exists &mdash; and that he wouldn&rsquo;t be able to keep it a secret if it was discovered.</p>",
+            "url": "https://www.news.com.au/technology/science/space/elon-musk-reveals-what-he-knows-about-alien-existence/news-story/c1ec680ca9f0498928505c47ce179dc9",
+            "urlToImage": "https://content.api.news/v3/images/bin/463af75ae31af1263c36907471ebc6c3",
+            "publishedAt": "2023-04-19T09:48:00Z",
+            "content": "Elon Musk admitted he doesn’t know whether alien life exists — and that he wouldn’t be able to keep it a secret if it was discovered.\r\nThe Twitter CEO and SpaceX founder told Fox News host Tucker Car… [+2545 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": null,
+            "title": "Watch: World Snooker Championship - Lisowski v Saengkham & Wilson v Day",
+            "description": "Watch live coverage from the first round of the World Snooker Championship at the Crucible in Sheffield.",
+            "url": "http://www.bbc.co.uk/sport/live/snooker/62995905",
+            "urlToImage": "https:////m.files.bbci.co.uk/modules/bbc-morph-sport-seo-meta/1.23.3/images/bbc-sport-logo.png",
+            "publishedAt": "2023-04-19T09:22:21.2961429Z",
+            "content": "Live coverage\r\nThere is uninterrupted coverage on BBC iPlayer, BBC Sport website and BBC Sport app every day, plus some coverage on the Red Button.\r\n10:00-11:00 - BBC Two\r\n10:00-14:00 - uninterrupted… [+325 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Rita Liao",
+            "title": "Volkswagen pumps 1B euros into China electric vehicle center",
+            "description": "Auto Shanghai, which is underway this week, is a yearly opportunity for carmakers and auto suppliers to flex their muscles and show their commitment to China, the world’s largest auto market. At this year’s edition, Volkswagen announced that it will invest ar…",
+            "url": "https://techcrunch.com/2023/04/19/volkswagen-1-billion-euros-ev-innovation-center-in-china/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/04/volkswagen.jpeg?resize=1200,800",
+            "publishedAt": "2023-04-19T07:44:20Z",
+            "content": "Auto Shanghai, which is underway this week, is a yearly opportunity for carmakers and auto suppliers to flex their muscles and show their commitment to China, the world’s largest auto market.\r\nAt thi… [+2766 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": null,
+            "title": "Warner included in Australia Ashes squad",
+            "description": "Opening batter David Warner is in the Australia squad for the World Test Championship final against India and the first two Ashes Tests with England.",
+            "url": "http://www.bbc.co.uk/sport/cricket/65320637",
+            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/5640/production/_129408022_gettyimages-1452614116.jpg",
+            "publishedAt": "2023-04-19T07:37:17.5916658Z",
+            "content": "David Warner averaged just 9.50 across 10 innings in the 2019 Ashes, including three ducks and a top score of 61\r\nDavid Warner has been included in the Australia squad for the World Test Championship… [+2699 chars]"
+        },
+        {
+            "source": {
+                "id": "news-com-au",
+                "name": "News.com.au"
+            },
+            "author": "Sarah Sharples",
+            "title": "‘Ghost town’: Country’s move on rental crisis",
+            "description": "<p>A rental crisis is sweeping many countries across the world with Australians no stranger to the huge issue as rents are hiked by hundreds of dollars and a massive shortage of properties are seeing some people face homelessness.</p>",
+            "url": "https://www.news.com.au/finance/real-estate/renting/spanish-government-makes-50k-foreclosed-homes-available-for-cheap-rent/news-story/d19c16aee008f8f054c3f422c46062e0",
+            "urlToImage": "https://content.api.news/v3/images/bin/85f05642ea8ba683318f7570d94b8106",
+            "publishedAt": "2023-04-19T07:25:00Z",
+            "content": "A rental crisis is sweeping many countries across the world with Australians no stranger to the huge issue as rents are hiked by hundreds of dollars and a massive shortage of properties are seeing so… [+7782 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": "Yaron Weitzman, Melissa Rohlin",
+            "title": "NBA playoff dispatches: Booker steps out of Durant shadow; Garland shines",
+            "description": "Devin Booker reminded the world that the Suns have not one, but two of the league's greatest offensive weapons.",
+            "url": "http://www.foxsports.com/stories/nba/nba-playoff-dispatches-booker-steps-out-of-durant-shadow-garland-shines",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/04/1408/814/booker-418.jpg?ve=1&tl=1",
+            "publishedAt": "2023-04-19T02:19:27Z",
+            "content": "FOX Sports writers are providing takeaways from games throughout the NBA playoffs. Here are their thoughts from the first Tuesday of the postseason.\r\nSuns 123, Clippers 109: Booker steps out of Duran… [+6042 chars]"
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "CBC News",
+            "title": "CBC News Explore",
+            "description": "CBC News Explore takes you beyond the headlines to explain and experience the news with our journalists in Canada and the world.",
+            "url": "http://www.cbc.ca/player/play/2049722435757",
+            "urlToImage": "https://thumbnails.cbc.ca/maven_legacy/thumbnails/976/659/Explore-Thumbnail-Gem-16x9.jpg",
+            "publishedAt": "2023-04-18T22:52:25.9197052Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "https://www.engadget.com/about/editors/jon-fingas",
+            "title": "Meta's Horizon Worlds is opening to young teens in the US and Canada | Engadget",
+            "description": "Meta's Horizon Worlds is opening its virtual doors to younger teens with 'robust' safety controls..",
+            "url": "https://www.engadget.com/metas-horizon-worlds-is-opening-to-young-teens-in-the-us-and-canada-194600914.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/pDM0r_lCWHKs2bGgUdGigQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2022-01/652fa6a0-7165-11ec-bffe-4e625612c481.cf.jpg",
+            "publishedAt": "2023-04-18T19:52:15.8886009Z",
+            "content": "Months later than rumored, Meta's Horizon Worlds is opening its doors to younger teens. The company is making its metaverse space accessible to teens aged 13 to 17 in the US and Canada in the weeks a… [+1662 chars]"
+        },
+        {
+            "source": {
+                "id": "four-four-two",
+                "name": "FourFourTwo"
+            },
+            "author": "Mark White",
+            "title": "Manchester City to sign €70m superstar – who could become the fastest player in the Premier League: report",
+            "description": "Manchester City are looking to blow the competition out of the water again by signing a genuine world-beating speedster",
+            "url": "https://www.fourfourtwo.com/news/manchester-city-transfer-news-man-city-to-sign-70m-superstar-who-could-become-the-fastest-player-in-the-premier-league-report-real-madrid-bayern-munich-alphonso-davies-signings-rumours-gossip-paper-talk-mcfc",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/YDsSGWK5JRqZkdRYB4c7kh-1200-80.jpg",
+            "publishedAt": "2023-04-18T14:00:00Z",
+            "content": "Manchester City are poised to sign one of the quickest players in Europe to bolster their squad.\r\nPep Guardiola's side are still on course for a historic treble as they come into form in the run-in. … [+2582 chars]"
+        },
+        {
+            "source": {
+                "id": "four-four-two",
+                "name": "FourFourTwo"
+            },
+            "author": "Mark White",
+            "title": "Liverpool report: Alexis Mac Allister move this summer is '100% guaranteed'",
+            "description": "Liverpool want Alexis Mac Allister this summer with the World Cup winner certain to leave Brighton & Hove Albion",
+            "url": "https://www.fourfourtwo.com/news/liverpool-transfer-newsreport-alexis-mac-allister-move-this-summer-is-100-guaranteed-brighton-and-hove-albion-manchester-united-man-utd-manu-arsenal-signings-rumours-gossip-paper-talk-ynwa-lfc",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/UApuVeK3xKD94KQNWhfiwG-1200-80.jpg",
+            "publishedAt": "2023-04-18T11:00:37Z",
+            "content": "Liverpool have received a transfer boost, with Alexis Mac Allister \"guaranteed\" to leave Brighton &amp; Hove Albion this summer. \r\nThat's according to one transfer guru who says the Argentine midfiel… [+2628 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Wired",
+            "title": "The ‘Bad Astronomer’ Takes You on a Tour of the Cosmos",
+            "description": "Phil Plait’s new book, Under Alien Skies, helps space fans imagine what it would be like to visit stars and other worlds.",
+            "url": "https://www.wired.com/story/the-bad-astronomer-takes-you-on-a-tour-of-the-cosmos/",
+            "urlToImage": "https://media.wired.com/photos/643daaccce7034d307cbff4d/191:100/w_1280,c_limit/andromedagalaxy_science_GettyImages-541385856.jpg",
+            "publishedAt": "2023-04-18T11:00:00Z",
+            "content": "In the early 2000s, Phil Plait wrote his first book, Bad Astronomy, which debunked conspiracy theories and fallacies, like the idea that NASA faked the moon landings in the 1970s or that planetary al… [+3378 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Matt Garrick",
+            "title": "A political warrior who walked tall in two worlds — how Yunupingu opened Australia's eyes",
+            "description": "From a land rights \"radical\" to a steely elder who had the ear of successive prime ministers, the late northeast Arnhem Land leader, Yunupingu, leaves a powerful legacy.",
+            "url": "http://www.abc.net.au/news/2023-04-03/yunupingu-gove-nhulunbuy-nt-land-rights-legend-dies/102144072",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/7ce091a92ef5f6c933ff186a79e8993a?impolicy=wcms_crop_resize&cropH=257&cropW=456&xPos=5&yPos=32&width=862&height=485",
+            "publishedAt": "2023-04-02T23:11:06Z",
+            "content": "From political boardrooms to the Northern Territory bush, Yunupingu walked tall in two worlds, always with a fire burning deep inside.\r\nNote to Aboriginal and Torres Strait Islander readers: Yunuping… [+9908 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "ABC News",
+            "title": "After the Fall",
+            "description": "A mother and son in suburban Sydney, almost 100 lives on the line and a perilous rescue mission on the other side of the world. Can they pull it off?",
+            "url": "http://www.abc.net.au/news/2023-04-03/sourosh-and-mahboba-audacious-afghanistan-rescue-mission/101768796",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/7bbf0b96f672006e06170f41a5f21960?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
+            "publishedAt": "2023-04-02T18:26:05Z",
+            "content": "A mother and son in suburban Sydney, almost 100 lives on the line and a perilous rescue mission on the other side of the world. Can they pull it off?\r\nIt had just passed midnight on August 25, 2021, … [+18740 chars]"
+        },
+        {
+            "source": {
+                "id": "the-irish-times",
+                "name": "The Irish Times"
+            },
+            "author": "Ed Power",
+            "title": "Bear Grylls Meets President Zelenskyy review: TV action man eager to set the world to rights",
+            "description": "In this Channel 4 documentary, Grylls is very good at being earnest and is genuinely moved by the fortitude of Ukraine",
+            "url": "https://www.irishtimes.com/culture/tv-radio/2023/03/29/bear-grylls-meets-president-zelenskyy-review-tv-action-man-eager-to-set-the-world-to-rights/",
+            "urlToImage": "https://www.irishtimes.com/resizer/6p88mds4ABkJsWVTO8rznsDX2_g=/1200x630/filters:format(jpg):quality(70):focal(1350x510:1360x520)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/67CBWCZ4IRHTBOYE6PRS4STLFU.jpg",
+            "publishedAt": "2023-03-29T12:56:56Z",
+            "content": "Bear Grylls bounces into Ukraine eager to set the world to rights. The TV action man is travelling across an active war theatre to meet the Ukrainian president Volodymyr Zelenskiy and has cultivated … [+2929 chars]"
+        },
+        {
+            "source": {
+                "id": "the-globe-and-mail",
+                "name": "The Globe And Mail"
+            },
+            "author": "Erica Alini",
+            "title": "‘It’s a dog eat dog world’ as housing cool-down helps ignite rental market wars",
+            "description": "Rents in many parts of Canada are nearing or surging past prepandemic records, just as property values and home resale transactions declined for the second consecutive month in May",
+            "url": "https://www.theglobeandmail.com/investing/personal-finance/household-finances/article-its-a-dog-eat-dog-world-as-housing-cool-down-helps-ignite-rental/",
+            "urlToImage": "https://www.theglobeandmail.com/resizer/k4SzzUz-fDXLTPrBSHk8c8OwZCs=/1200x801/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/OUZ33GZN4VBJZCAFM4TXYDFKAI.JPG",
+            "publishedAt": "2022-06-16T09:00:00Z",
+            "content": "A sign advertising a house for rent in Ottawa, Ont., on May 16.Spencer Colby/The Globe and Mail\r\nJust as Canadas home sales and prices cool off, the rental market is catching fire.\r\nRents in many par… [+4720 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": null,
+            "title": "FT Financial Literacy and Inclusion Campaign",
+            "description": "The FT invites readers to join our campaign to promote financial literacy in the UK and around the world",
+            "url": "https://www.ft.com/ft-seasonal-appeal",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb6b27a6e-ad17-44a5-b5eb-65b211168329.jpg?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2021-12-14T10:22:21.1325475Z",
+            "content": "We use\r\ncookies\r\nfor a number of reasons, such as keeping FT Sites reliable and secure,\r\npersonalising content and ads, providing social media features and to\r\nanalyse how our Sites are used."
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": null,
+            "title": "‘Money is no object’: Ghislaine Maxwell trial shines light on class divide",
+            "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+            "url": "https://www.ft.com/content/0b9d93da-1687-4eb1-bd53-0a84a1b40dff",
+            "urlToImage": null,
+            "publishedAt": "2021-12-14T06:22:29.1165883Z",
+            "content": "Keep abreast of significant corporate, financial and political developments around the world.\r\nStay informed and spot emerging risks and opportunities with independent global reporting, expert\r\ncomme… [+32 chars]"
+        }
+    ]
+}
